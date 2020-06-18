@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-17 20:31:12</sys_created_on>
+        <sys_id>9db64918db6510104eeca0f2ca961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_495634_shopping_shopping_item.public</sys_name>
+        <sys_package display_value=" Shopping List" source="x_495634_shopping">6580c5dcdb2510104eeca0f2ca961918</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Shopping List">6580c5dcdb2510104eeca0f2ca961918</sys_scope>
+        <sys_security_acl display_value="x_495634_shopping_shopping_item">ddb64918db6510104eeca0f2ca961906</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9db64918db6510104eeca0f2ca961909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-17 20:31:12</sys_updated_on>
+        <sys_user_role display_value="public" name="public">b0593b350a0a0aa7001d689e4542dc28</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
